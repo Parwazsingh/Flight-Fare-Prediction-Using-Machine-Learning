@@ -1,0 +1,1 @@
+model = pickle.load(open("flight_rf.pkl", "rb"))
